@@ -1,1 +1,1 @@
-alert('Some text 1')
+alert('Some text 1');
